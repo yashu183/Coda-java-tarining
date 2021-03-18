@@ -1,0 +1,47 @@
+1. D
+2. C++,C++.
+3. Platform Independent
+
+OOPs
+
+8. Object-Oriented 
+10. Void
+11. String[] //String Array
+12. b,e
+
+Lab2
+
+13. const(used final instead), goto
+14. b,c
+
+Operators
+
+15. Arthematic(+,_,*,/,%)
+    . (dot operator)
+    Logical(&&, ||,!)
+    Assignment(+=, -=, *=,...)
+    Bitwise(&, |, ^) 
+    relational operator(>,<,>=,<=)
+18. a  = 1
+    b = 2
+    c = 3 (b = 3)
+    d = 1
+    c = 4(final)
+19. b
+20. a,b,c,d
+21. c = true
+    d = false
+    e = true
+    f = true
+    g = false
+22. 20
+23. float Area = ((22/7)*r*r)+(2*22*r*h)/7;
+    float x = (vel*vel/2)+(acc*hei)
+    float Energy = mass*x;
+
+Lab 3
+
+24. three ctrl statements
+      1. Decision Making (if else, switch)
+      2. Iterative (for, while)
+      3. Jumping(break)
